@@ -3,7 +3,7 @@
 
 主要把我的笔记从 OneNote 转移到 Git 仓库。
 
-笔记地址: [点击打开](https://wulve.gitee.io/notebook)
+笔记地址: [点击打开](https://wulve.github.io/Notebook/)
 
 Linux相关内容:
 
